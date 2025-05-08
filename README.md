@@ -9,3 +9,4 @@
 - Go setup
 - Ansible cfg
 - Rust/Cargo setup
+- tmux setup
